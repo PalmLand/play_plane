@@ -1,3 +1,3 @@
-# Hit-a-plane-A-Game-
+# Play plane
 Pygame
 It contains code and images.
